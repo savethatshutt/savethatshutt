@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savethatshutt
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning sass
+- 👀 I’m interested in UIUX Design
+- 🌱 I’m currently pascal
 
 
 
